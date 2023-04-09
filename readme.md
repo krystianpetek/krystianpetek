@@ -70,4 +70,4 @@ Hi 👋, I'm
 <h3> Check out my projects:</h3>
 - TODO
 
-<br/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianpetek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="krystianpetek" />
+<!--<br/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianpetek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="krystianpetek" /> -->
