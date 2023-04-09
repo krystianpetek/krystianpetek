@@ -20,7 +20,7 @@ Hi 👋, I'm
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/krystian-petek-3731b9215/)**, [Discord](https://discordapp.com/users/krystianpetek#1741), [krystianpetek2@gmail.com](mailto:krystianpetek2@gmail.com)
 
-<h3>In work with:</h3>
+<h4>In work with:</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp" title="C#"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" width="40" height="40" alt="vs2022" title="Visual Studio 2022"/>
@@ -32,7 +32,7 @@ Hi 👋, I'm
 <img src="https://avatars.githubusercontent.com/u/7149163?s=280&v=4" alt="ms-orleans" width="40" height="40" title="Microsoft Orleans"/>
 </p>
 
-<h3>I use also: </h3>
+<h4>I use also: </h4>
 <p align="left">
 <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" width="40" height="40" alt="blazor" title="Blazor"/>
 <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="40" height="40" alt="scss" title="SCSS"/>
@@ -45,10 +45,9 @@ Hi 👋, I'm
 <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="Redis" width="40" height="40" title="Redis"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="terminal" width="40" height="40" title="PowerShell"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title="Figma"/>
-
 </p>
 
-<h3>Experience with:</h3>
+<h4>Experience with:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" title="JavaScript"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="photoshop" width="40" height="40" title="React"/>
@@ -64,10 +63,9 @@ Hi 👋, I'm
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="xd" width="40" height="40" title="Adobe Illustrator"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="xd" width="40" height="40" title="Adobe Xd"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"title="Adobe Photoshop"/>
-
 </p>
 
-<h3> Check out my projects:</h3>
+<h4>Some of my projects:</h4>
 - TODO
 
 <!--<br/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianpetek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="krystianpetek" /> -->
