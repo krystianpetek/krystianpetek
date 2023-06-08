@@ -14,7 +14,7 @@ Hi 👋, I'm
 
 - 🌱 I’m currently learning **.NET, MS Orleans, TypeScript with Angular** and Flutter
 
-- 👨‍💻 Some of my projects are available here, at [https://github.com/krystianpetek](https://github.com/krystianpetek)
+- 👨‍💻 Some of my projects are available here, at [here](https://github.com/krystianpetek?tab=repositories)
 
 - 💬 Ask me about **C#, .NET, EF Core, Web development**
 
