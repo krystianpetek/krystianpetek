@@ -10,7 +10,7 @@ Hi 👋, I'm
 <h3 align="left">Backend developer and passionate frontend developer</h3>
 <p></p>
 
-- 🔭 I’m currently working on **Engineer's thesis** using ASP.NET Core and Angular and **[AwesomePlaces](https://github.com/krystianpetek/AwesomePlaces)**
+- 🔭 I’m currently working on **Engineer's thesis** using ASP.NET Core and Angular
 
 - 🌱 I’m currently learning **.NET, MS Orleans, TypeScript with Angular** and Flutter
 
