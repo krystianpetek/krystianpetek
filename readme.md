@@ -35,7 +35,7 @@ Hi 👋, I'm
 <h4>I use also: </h4>
 <p align="left">
 <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" width="40" height="40" alt="blazor" title="Blazor"/>
-<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="40" height="40" alt="scss" title="SCSS"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-226054.png" width="40" height="40" alt="scss" title="SCSS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40" title="TypeScript"/>
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="angular" title="Angular"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" height="40" alt="vscode" title="Visual Studio Code"/>
@@ -66,6 +66,12 @@ Hi 👋, I'm
 </p>
 
 <h4>Some of my projects:</h4>
-- TODO
+
+- [GarageGenius](https://github.com/krystianpetek/GarageGenius) - is an application to improve the management of the service process in a vehicle repair workshop | `Angular` and `ASP.NET Core`
+- [AwesomePlaces](https://github.com/krystianpetek/AwesomePlaces) - is a mobile application for search and discover interesting places | `Flutter` and `ASP.NET Core`
+- [KriniteAuthServer](https://github.com/krystianpetek/KriniteAuthServer) - is an authentication server using IdentityServer4 || OAuth2.0 with OpenId Connect (OpenIddict in future)
+- [KriniteWebShop](https://github.com/krystianpetek/KriniteWebShop) - is a platform for online shopping which is developed in microservice architecture | `ASP.NET Core` and `Blazor` 
+- [FakeInstagram](https://github.com/krystianpetek/FakeInstagram) - this project is a simple SPA an app that pretends to be as like as instagram, which are fetching data from {JSON} Placeholder API. | `React`
+- [VacationPlanner](https://github.com/krystianpetek/VacationPlanner/) - is an application for planning employee vacation in my company | `ASP.NET Core` and `WPF`
 
 <!--<br/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianpetek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="krystianpetek" /> -->
