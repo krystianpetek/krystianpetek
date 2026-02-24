@@ -7,71 +7,91 @@ Hi 👋, I'm
 </span>
 </h1>
 
-<h3 align="left">Backend developer and passionate frontend developer</h3>
+<h3 align="left">Software Engineer focused on scalable backend systems</h3>
 <p></p>
 
-- 🔭 I’m currently working on **Engineer's thesis** using ASP.NET Core and Angular
+- 🌱 I’m currently deepening my knowledge in **distributed .NET systems, cloud architecture and automation**
+- 👨‍💻 Some of my projects are available here: [repositories](https://github.com/krystianpetek?tab=repositories)
+- 💬 Ask me about **C#, .NET, EF Core, system design, backend architecture**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/krystian-petek-3731b9215/)**, [Discord](https://discordapp.com/users/krystianpetek#1741), [krystianpetek2@gmail.com](mailto:krystianpetek2@gmail.com)
 
-- 🌱 I’m currently learning **.NET, MS Orleans, TypeScript with Angular** and Flutter
+---
 
-- 👨‍💻 Some of my projects are available here, at [here](https://github.com/krystianpetek?tab=repositories)
+## 🚀 About me
 
-- 💬 Ask me about **C#, .NET, EF Core, Web development**
+Software Engineer with **3.5+ years of commercial experience** building scalable backend systems using .NET.
 
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/krystian-petek-3731b9215/)**, [Discord](https://discordapp.com/users/krystianpetek#1741), [krystianpetek2@gmail.com](mailto:krystianpetek2@gmail.com)
+I specialize in designing **maintainable, production-grade architectures** and delivering systems across the full development lifecycle — from system design to cloud deployment and automation.
+
+My recent work focuses on **multi-tenant commerce systems, 3D/XR integrations, rendering pipelines, and workflow automation** used in large-scale e-commerce and manufacturing environments.
+
+**Currently transitioning projects to self-hosted GitLab infrastructure** and expanding DevOps capabilities.
+
+---
+
+## 🧠 Core Competencies
+
+### 🔹 Backend Development
+- C# / ASP.NET Core / EF Core / LINQ / SignalR  
+- CQRS / Clean Architecture  
+- RESTful APIs  
+- Integration Testing  
+- Multi-tenant systems  
+
+### 🗄️ Databases
+- PostgreSQL  
+- Redis  
+- MongoDB  
+- Microsoft SQL Server (SSMS)  
+
+### 🤖 AI & Automation
+- Backend integrations of AI-powered services  
+- Python automation pipelines & scripts  
+- Workflow orchestration with **n8n**  
+- Rendering workflow automation  
+
+### 🎨 Frontend Development
+- Blazor Server & WASM  
+- React with TypeScript  
+- Flutter 
+
+### ☁️ Cloud / DevOps
+- Google Cloud Platform  
+- Microsoft Azure  
+- Docker  
+- CI/CD (**GitLab self-hosted & Azure DevOps**)  
+- Keycloak (OIDC)  
+
+### 📡 Messaging / Streaming
+- RabbitMQ  
+- Google Pub/Sub  
+- Rx.NET  
+
+---
+
 
 <h4>In work with:</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp" title="C#"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" width="40" height="40" alt="vs2022" title="Visual Studio 2022"/>
+<img src="https://soft.ware.pl/images/jetbrains/rider_logos/logo.png" alt="rider" width="40" height="40" title="JetBrains Rider"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40" title="Linux"/>
 <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-1.jpg" width="40" height="40" alt="restapi" title="Rest API"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-<img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="mssql" width="40" height="40" title="Microsoft SQL Server"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="pgsql" width="40" height="40" title="PostgreSQL"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" title="Microsoft Azure"/>
-<img src="https://avatars.githubusercontent.com/u/7149163?s=280&v=4" alt="ms-orleans" width="40" height="40" title="Microsoft Orleans"/>
-</p>
-
-<h4>I use also: </h4>
-<p align="left">
-<img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" width="40" height="40" alt="blazor" title="Blazor"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-226054.png" width="40" height="40" alt="scss" title="SCSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40" title="TypeScript"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="angular" title="Angular"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="docker" title="Docker"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" height="40" alt="vscode" title="Visual Studio Code"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40" title="Docker"/>
-<img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="40" height="40" title="MongoDB"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="pgsql" width="40" height="40" title="PostgreSQL"/>
-<img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="Redis" width="40" height="40" title="Redis"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="terminal" width="40" height="40" title="PowerShell"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title="Figma"/>
 </p>
 
-<h4>Experience with:</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" title="JavaScript"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="photoshop" width="40" height="40" title="React"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
-<img src="https://nat.sakimura.org/wp-content/uploads/2012/02/openid-icon-250x250.png" alt="oidc" width="40" height="40" title="OIDC"/>
-<img src="https://avatars.githubusercontent.com/u/7802525?s=280&v=4" alt="grpc" width="40" height="40" title="gRPC"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40" title="Linux"/>
-<img src="https://b.thumbs.redditmedia.com/WmbHlRNHXOci-aUzBgHmKPMHRNvI2OtKF2XguHteO5A.png" alt="ansible" width="40" height="40" title="Ansible"/>
-<img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" alt="arduino" width="40" height="40" title="Arduino"/>
-<img src="https://soft.ware.pl/images/jetbrains/rider_logos/logo.png" alt="rider" width="40" height="40" title="JetBrains Rider"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="xd" width="40" height="40" title="Adobe Illustrator"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="xd" width="40" height="40" title="Adobe Xd"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"title="Adobe Photoshop"/>
-</p>
+---
 
 <h4>Some of my projects:</h4>
 
-- [GarageGenius](https://github.com/krystianpetek/GarageGenius) - is an application to improve the management of the service process in a vehicle repair workshop | `Angular` and `ASP.NET Core`
-- [AwesomePlaces](https://github.com/krystianpetek/AwesomePlaces) - is a mobile application for search and discover interesting places | `Flutter` and `ASP.NET Core`
-- [KriniteAuthServer](https://github.com/krystianpetek/KriniteAuthServer) - is an authentication server using IdentityServer4 || OAuth2.0 with OpenId Connect (OpenIddict in future)
-- [KriniteWebShop](https://github.com/krystianpetek/KriniteWebShop) - is a platform for online shopping which is developed in microservice architecture | `ASP.NET Core` and `Blazor` 
-- [FakeInstagram](https://github.com/krystianpetek/FakeInstagram) - this project is a simple SPA an app that pretends to be as like as instagram, which are fetching data from {JSON} Placeholder API. | `React`
-- [VacationPlanner](https://github.com/krystianpetek/VacationPlanner/) - is an application for planning employee vacation in my company | `ASP.NET Core` and `WPF`
-
-<!--<br/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianpetek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="krystianpetek" /> -->
+- [BodyStack](https://github.com/krystianpetek/BodyStack) — full-stack monorepo for multi-integration fitness data platform with real-time processing, modular dashboard and public landing page | `.NET Minimal API` + `React 19` + `PostgreSQL` + `SignalR`
+- [GarageGenius](https://github.com/krystianpetek/GarageGenius) — service process management system for vehicle repair workshops | `Angular` + `ASP.NET Core`  
+- [AwesomePlaces](https://github.com/krystianpetek/AwesomePlaces) — mobile app for discovering interesting places | `Flutter` + `ASP.NET Core`  
+- [KriniteAuthServer](https://github.com/krystianpetek/KriniteAuthServer) — authentication server (IdentityServer4 → OpenIddict)  
+- [KriniteWebShop](https://github.com/krystianpetek/KriniteWebShop) — microservices-based e-commerce platform | `ASP.NET Core` + `Blazor`  
+- [FakeInstagram](https://github.com/krystianpetek/FakeInstagram) — Instagram-like SPA using JSONPlaceholder API | `React`  
+- [VacationPlanner](https://github.com/krystianpetek/VacationPlanner/) — employee vacation planning system | `ASP.NET Core` + `WPF`
